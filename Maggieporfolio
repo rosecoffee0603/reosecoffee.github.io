@@ -13,7 +13,7 @@ DOCTYPE html>
 <label for="email">Email Address:</label><br>
 <input type="email" id="email" name="email" value="" size="35"><br>
 <lable for="comments">Comments:</lable><br>
-<input type="text" id="comments&quot;" name="comments" vales="" size="100"><br><br>
+<input type="text" id="comments&quot;" name="comments" vales="" size="height: 100px; width: 350px"><br><br>
 <input type="submit" value="Submit">
 </form>
 
