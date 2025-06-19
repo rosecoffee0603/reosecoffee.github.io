@@ -3,14 +3,20 @@
 <head>
 <style>
   body{
-    background-color: lightred;
+    background-color: lightpink;
 }
   h1{
     text-align: center;}
+  h2{ 
+    text-align: center;}
   h4{
     text-align: center;}
-  comments&quot{
-    height:50px; width:200px;"}
+  label{
+    text-align: center;}
+  input{
+    text-align: center;}
+  #comments{
+    height:50px; width:350px;"}
 </style>
 </head>
   
