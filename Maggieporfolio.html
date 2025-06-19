@@ -1,6 +1,18 @@
 <DOCTYPE html>
 <html>
 <head>
+<style>
+  body{
+    background-color: lightredl;
+}
+  h1{
+    text-align: center;}
+  h4{
+    text-align: center;}
+</style>
+</head>
+  
+<body>
 <title>Maggie E. Chuang</title>
 <h1>Maggie E. Chuang</h1>
 <h4>New York, NY | maggiechuang060389@gmail.com | (917)623-8464</h4>
